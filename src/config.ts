@@ -63,7 +63,7 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Systemactive",
+      company: "SystemActive",
       title: "Data Analyst",
       dateRange: "Sep 2023",
       bullets: [
