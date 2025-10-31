@@ -112,4 +112,22 @@ export const siteConfig = {
       ],
     },
   ],
+  volunteering: [
+    {
+      company: "Imperial College London RAG (Raising and Giving)",
+      title: "Treasurer",
+      dateRange: "Oct 2022 - Sep 2023",
+      bullets: [
+        "Played a leading role in a society post-COVID",
+        "Helped drive the society from £500 to £9000+ in donations within a year",
+        "Organised two club nights, collaborating with 10+ sports societies and the SU",
+      ],
+    },
+    {
+      company: "A-Level Maths Tutor",
+      title: "Tutor the Nation",
+      dateRange: "Oct 2022 - May 2023",
+      bullets: [],
+    },
+  ],
 };
