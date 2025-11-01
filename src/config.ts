@@ -120,7 +120,7 @@ export const siteConfig = {
       title: "Treasurer",
       dateRange: "Oct 2022 - Sep 2023",
       bullets: [
-        "Played a leading role in revitalising a society post-COVID",
+        "Played a leading role in revitalising the society post-COVID",
         "Helped drive the society from £500 to £9000+ in donations within a year",
         "Organised two club nights, collaborating with 10+ sports societies and the SU",
       ],
