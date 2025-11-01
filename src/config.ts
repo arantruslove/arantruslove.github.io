@@ -1,4 +1,5 @@
 export const siteConfig = {
+  site: "https://arantruslove.github.io",
   name: "Aran Truslove",
   title: "Software Engineer (Machine Learning)",
   description: "Portfolio website of Aran Truslove",
